@@ -7,7 +7,9 @@ Dataset is available at the following link: https://www.kaggle.com/kasikrit/att-
 It is required to perform face recognition using PCA and LDA as an algorithm for dimensionality 
 reduction, then for classification K-NN algorithm is used.
 Two classification problems are required:
+
 • Classification of a test face as one of 40 possible classes.
+
 • Face vs non-face classification problem. Given a test image, is this image a face or a non face?
 
 ## Dataset description
